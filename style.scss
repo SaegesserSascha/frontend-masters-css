@@ -1,13 +1,14 @@
-@import './styles/base.scss';
+@import "./styles/base.scss";
 
 body {
-  font-family: 'Open Sans', sans-serif;
+  font-family: "Open Sans", sans-serif;
   padding: 5vmin;
-  background-color: #f4f4f4;
+  color: rgb(245, 245, 245);
+  background-color: #272727;
 }
 
 a {
-  color: blue;
+  color: rgb(245, 245, 245);
 }
 
 h1 {
